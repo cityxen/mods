@@ -1,6 +1,15 @@
 # CityXen Amiga ProTracker MODs
+
 ![Deadline](https://github.com/cityxen/mods/raw/master/images/deadline97.png)
-I decided to make some brand new chiptunes in Amiga ProTracker MOD format. I love chiptunes and I wanted to give back to the community. Inspiration: 4-Mat, Mygg, Comatron, H0ffman, Spider Jerusalem, LMAN You may use these MODS freely, but please credit Deadline/CityXen. Thank you!
+
+I decided to make some brand new chiptunes in Amiga ProTracker MOD format. I love chiptunes and I wanted to give back to the community. Inspiration: 4-Mat, Mygg, Comatron, H0ffman, 
+Spider Jerusalem, LMAN
+
+You may use these MODS freely, but please credit Deadline/CityXen. Thank you!
+
+![CityXen](https://github.com/cityxen/mods/raw/master/images/cityxen3.png)
+
+History:
 
 22 May 2020: COVID-19 Sux!
   (COVID-19 Sux so bad!)
