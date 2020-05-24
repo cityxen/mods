@@ -17,7 +17,7 @@ History:
   https://www.youtube.com/watch?v=X55E1keT9B4
 
 20 May 2020: Helmet Guy
-  (Helmet Guy Theme Song, entered to Outline Holland Music Compo - https://outlinedemoparty.nl/#compos)
+  (Helmet Guy Theme Song, 14th out of 15 place in Outline Holland Music Compo - https://outlinedemoparty.nl/#compos)
 
   https://www.youtube.com/watch?v=gC1oql2FqrU
 
