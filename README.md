@@ -1,4 +1,6 @@
-# CityXen Amiga ProTracker MODs
+# 🌆🅲🅸🆃🆈🆇🅴🅽☯️ 8 & 16 bit hijinx and programming!
+
+# Amiga ProTracker MODs
 
 ![Deadline](https://github.com/cityxen/mods/raw/master/images/deadline97.png)
 
