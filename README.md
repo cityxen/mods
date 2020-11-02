@@ -13,6 +13,11 @@ You may use these MODS freely, but please credit CityXen (CXN). Thank you!
 
 History:
 
+21 Oct 2020: Aardvark Anomaly
+  (Entered into 10Marc & PixelVixen's Amiga Art Contest https://www.amigaartwork.com/ )
+  
+  https://www.youtube.com/watch?v=vxDqcMxuQ9U
+
 22 May 2020: COVID-19 Sux!
   (COVID-19 Sux so bad!)
 
